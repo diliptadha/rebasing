@@ -49,7 +49,7 @@ export default function Home() {
           <h2>
             dilip <span>-&gt;</span>
           </h2>
-          <p>Finddilip in-depth information about Next.js features and API.</p>
+          <p>hey in-depth information about Next.js features and API.</p>
         </a>
 
         <a
